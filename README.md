@@ -2,4 +2,4 @@
 demonstration for GitHub for CIS 600
 
  Individual Assignment
- CIS 600
+
