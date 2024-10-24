@@ -1,3 +1,5 @@
 # CIS_600_demo2
 demonstration for GitHub for CIS 600
-Update 
+
+ Individual Assignment
+ CIS 600
